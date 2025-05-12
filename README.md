@@ -25,7 +25,7 @@ The schema is designed using proper database normalization principles, and inclu
 1. Clone the repository:
 
    bash
-   git clone [https://github.com/your-username/car-rental-db.git](https://github.com/your-username/car-rental-db.git)
+   git clone [(https://github.com/Meshack-Mesh/Car_rental-database.git)]
    cd car-rental-db
 
 2. Open MySQL or a compatible client (like phpMyAdmin or MySQL Workbench).
